@@ -1,4 +1,4 @@
-## Giphy API
+# Giphy API
 
 * A fun giphy explorer app!
 * Giphy API documentation: https://github.com/Giphy/GiphyAPI
@@ -7,5 +7,5 @@
 * Each gif displays a rating underneath.
 * Click a gif to start animation, click again to pause it.
 
-# Copyright
+### Copyright
 Marton Kondray © 2018. All Rights Reserved.
