@@ -1,0 +1,67 @@
+body{
+	background: url("../images/background.jpg");
+	background-size: 100%;
+    background-repeat: no-repeat;
+    color: black;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+img { 
+    height: 150px;
+    width: 150px;
+}
+
+.btn {
+    margin: 3px;
+    background-color: #999999;
+    border-color: #fff;
+}
+
+.gifDiv{
+    float: left;
+    margin: 3px;
+}
+
+.container {
+	background-color: #fff;
+	opacity: 0.8;
+	padding: 20px;
+	border-radius: 15px;
+}
+
+.container-top {
+	border-bottom-left-radius: 0;
+	border-bottom-right-radius: 0;
+}
+
+.container-bottom {
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+}
+
+.jumbotron {
+    background-color: inherit;
+}
+
+.jumbotron .h1, .jumbotron h1 {
+    text-align: center;
+}
+
+#copyright{
+	font-size: 14px;
+}
+
+div#footer {
+	clear: both;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	position: center;
+	bottom: 0;
+	left: 0;
+	text-align: center;
+}
+
+
